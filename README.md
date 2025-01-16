@@ -1,16 +1,3 @@
-## Hi there 👋
+TASK1 COMPLETED
 
-<!--
-**SANKARK2005/SANKARK2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on CODSOFT 
-- 🌱 I’m currently learning PYTHON LANGUAGE
-- 👯 I’m looking to collaborate on INTERNSHIP
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am excited that i have completed task 1 codsoft technologies.The task 1 was to create python code for a To-Do List .To-Do List application is a useful project that helps users manage and organize their tasks efficiently. This project aims to create a command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists																														
